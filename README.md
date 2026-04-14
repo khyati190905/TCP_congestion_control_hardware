@@ -1,2 +1,2 @@
 # TCP_congestion_control_hardware
-Implementation of tcp congestion control on stm nucleo board
+Implementation of tcp congestion control on stm nucleo board using ns3
